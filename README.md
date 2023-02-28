@@ -19,7 +19,7 @@ This adapter imports in real time the position and the extended data from [Tracc
 ## Configuration
 
 1. Create a new instance of the adapter
-2. Fill the URL/IP and port from Traccar server
+2. Fill the URL/IP and port from Traccar server (try 8082)
 3. Configur username and password
 4. Save the settings
 5. Have fun :)
